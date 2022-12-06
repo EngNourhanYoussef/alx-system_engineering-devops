@@ -1,3 +1,2 @@
 #!/bin/bash 
-greb -c -i "bin" /etc/passwd
-
+greb -c "bin" /etc/passwd
